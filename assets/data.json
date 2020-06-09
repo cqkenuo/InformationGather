@@ -333,6 +333,12 @@ getData([
                         "title": "IP-Address",
                         "desc": "IP跟踪"
                     },
+                    {
+                        "url": "https://spyse.com/",
+                        "logo": "assets/images/logos/spyse.png",
+                        "title": "Spyse",
+                        "desc": "查找有关Internet资产的技术信息"
+                    },
                 ]
             },
             {
@@ -658,6 +664,12 @@ getData([
                         "desc": "大力盘搜索--百度网盘"
                     },
                     {
+                        "url": "http://megasearch.co/",
+                        "logo": "assets/images/logos/mega.jpg",
+                        "title": "MegaSearch",
+                        "desc": "Mega网盘搜索（国外知名云盘服务）"
+                    },
+                    {
                         "url": "https://github.com/gudegg/yunSpider",
                         "logo": "assets/images/logos/github.jpg",
                         "title": "YunSpider",
@@ -684,6 +696,24 @@ getData([
                         "desc": "网站的历史归档信息"
                     },
                     
+                ]
+            },
+            {
+                "name": "情报威胁",
+                "en_name": "Intelligence Threat",
+                "web": [
+                    {
+                        "url": "https://www.threatminer.org/",
+                        "logo": "assets/images/logos/threatminer.png",
+                        "title": "Threat Miner",
+                        "desc": "情报威胁聚合网站，依赖CIRCL, VirusTotal等开源数据"
+                    },
+                    {
+                        "url": "https://www.circl.lu/",
+                        "logo": "assets/images/logos/circl.png",
+                        "title": "Circl",
+                        "desc": "计算机应急响应中心"
+                    },
                 ]
             },
             {
